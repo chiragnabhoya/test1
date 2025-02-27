@@ -534,4 +534,5 @@ fn main() {
     
     // Print updated details of car2
     println!("After update: {} {} ({})", car2.make, car2.model, car2.year);
+   
 }
